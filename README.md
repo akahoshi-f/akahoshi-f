@@ -1,3 +1,8 @@
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    
+
+
 ## Hi there 👋
 
 **akahoshi-f/akahoshi-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

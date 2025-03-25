@@ -1,5 +1,6 @@
 
-            <i class="devicon-python-plain"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
           
     
 

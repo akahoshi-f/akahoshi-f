@@ -1,6 +1,7 @@
 
 <img align="right" width="150px" style="margin-top:-20px" src="https://gifdb.com/images/high/rapid-hello-wave-from-pixelated-smiley-emoji-p3wabda1d095dk6i.webp">
 
+
 <div dsplay="inline-block">
 
 ## Felipe Akahoshi

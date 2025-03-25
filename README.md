@@ -8,7 +8,7 @@
 Sou apenas um universitário na UFABC com interesse especial em Dados.
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="350">
 </p>
 
 

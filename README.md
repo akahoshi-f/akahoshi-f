@@ -6,7 +6,7 @@
           
 **Olá!**
 
-Universitário na UFABC com interesse especial em Dados
+Sou apenas um universitário na UFABC com interesse especial em Dados.
 
 Tecnologias:
 

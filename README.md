@@ -1,20 +1,18 @@
 ## Felipe Akahoshi
-
-
           
-**akahoshi-f/akahoshi-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Olá!**
 
-Here are some ideas to get you started:
+Sou um profissional em desenvolvimento, sempre focado em aprimorar minhas habilidades e acompanhar as tendências do setor. Tenho um grande interesse em Dados e Programação, áreas nas quais pretendo construir minha carreira. Em breve, iniciarei o Bacharelado Interdisciplinar em Ciência e Tecnologia na Universidade Federal do ABC (UFABC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+🌟 Sobre mim:
 
+📚 Atualmente estudando Ciência e Tecnologia na UFABC (Início: 2025 - Previsão de Conclusão: 2027);
+
+🔬 Interesse especial em Engenharia de Dados e Ciência de Dados;
+
+💻 Formado em Técnico em Programação de Jogos Digitais pela ETEC Parque da Juventude;
+
+🎮 Experiência com C#, C++, Java, Banco de Dados, Modelagem 3D e Arte 2D;
 
 ## Hi there 👋
 
@@ -22,7 +20,6 @@ Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
           
-
 ##
 <div>
 <a href="https://github.com/akahoshi-f">

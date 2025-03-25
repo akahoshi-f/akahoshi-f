@@ -1,17 +1,11 @@
-
-<img align="right" width="150px" style="margin-top:-20px" src="https://gifdb.com/images/high/rapid-hello-wave-from-pixelated-smiley-emoji-p3wabda1d095dk6i.webp">
-</br>
-
 ## Felipe Akahoshi
           
 **Olá!**
 Sou apenas um universitário na UFABC com interesse especial em Dados.
 
 <p align="center">
-  <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="350">
+  <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">
 </p>
-
-
 
 **Tecnologias:**
 

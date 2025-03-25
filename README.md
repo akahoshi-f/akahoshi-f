@@ -1,4 +1,14 @@
+
 <img align="right" width="150px" style="margin-top:-20px" src="https://media.gifdb.com/rapid-hello-wave-from-pixelated-smiley-emoji-p3wabda1d095dk6i.gif">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div dsplay="inline-block">
+
 ## Felipe Akahoshi
           
 **Olá!**

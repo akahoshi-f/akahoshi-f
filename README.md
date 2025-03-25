@@ -1,7 +1,7 @@
 ## Felipe Akahoshi
           
 **Olá!**
-Sou apenas um universitário na UFABC com interesse especial em Dados, criando projetos pra portifólio.
+Sou apenas um universitário na UFABC com interesse especial em Dados, criando projetos para portifólio.
 
 <p align="center">
   <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">

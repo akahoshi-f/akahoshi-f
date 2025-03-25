@@ -5,9 +5,9 @@
 ## Felipe Akahoshi
           
 **Olá!**
-
 Sou apenas um universitário na UFABC com interesse especial em Dados.
-Toda a honra e toda a glória ao nosso Senhor Jesus Cristo✨
+
+Toda a honra e toda a glória ao nosso Senhor Jesus Cristo
 
 **Tecnologias:**
 

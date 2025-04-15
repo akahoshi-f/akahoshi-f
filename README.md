@@ -1,18 +1,18 @@
 ## Felipe Akahoshi
           
-**Olá!**
-Sou apenas um universitário na UFABC com interesse especial em Dados, criando projetos para portifólio.
+**Hi!**
+I'm just a university student at UFABC with a special interest in Data, creating projects for my portfolio.
 
 <p align="center">
   <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">
 </p>
 
-**Tecnologias:**
+**Technologies:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
 
 <p align="center">
-          Toda a honra e toda a glória ao nosso Senhor Jesus Cristo
+          to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord
 </p>
           
 ##

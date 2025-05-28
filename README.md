@@ -1,7 +1,7 @@
 ## Felipe Akahoshi
           
 **Hi!**
-I'm just a university student at UFABC with a special interest in Data, creating projects for my portfolio.
+I'm just a college student with a special interest in Data, creating projects for my portfolio.
 
 <p align="center">
   <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">

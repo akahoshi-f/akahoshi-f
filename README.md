@@ -1,7 +1,7 @@
 ## Felipe Akahoshi
           
 **Hi!**
-I'm just a college student with a special interest in Data, creating projects for my portfolio.
+I'm just a man working with CLoud. I also have Python knowledge, and i create projects for my portfolio here.
 
 <p align="center">
   <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">

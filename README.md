@@ -1,10 +1,10 @@
 ## Felipe Akahoshi
           
 **Hi!**
-I'm just a man working with Cloud. I also have Python knowledge, and i create projects for my portfolio here.
+I create projects for my portfolio here.
 
 <p align="center">
-  <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="100">
+  <img src="https://img1.picmix.com/output/stamp/normal/1/4/3/7/2757341_05372.png" width="100">
 </p>
 
 **Technologies:**

@@ -14,5 +14,3 @@ I create projects for my portfolio here.
 <p align="center">
           to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord
 </p>
-          
-##

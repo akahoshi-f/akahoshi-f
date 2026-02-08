@@ -3,6 +3,10 @@
 **Hi!**
 I like cloud.
 
+Some certifications:
+
+
+
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/1/4/3/7/2757341_05372.png" width="100">
 </p>

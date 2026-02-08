@@ -22,6 +22,9 @@ I like cloud.
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akahoshi-f&show_icons=true&theme=radical" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akahoshi-f&layout=compact&theme=radical" height="165" alt="languages graph" />
+  
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=akahoshi-f&theme=radical&hide_border=true)](https://github.com/akahoshi-f)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akahoshi-f&theme=radical)](https://github.com/akahoshi-f)
+
 </div>
+

@@ -1,8 +1,6 @@
 ## Felipe Akahoshi
 
 **Hi!**
-I like cloud.
-
 I have knowledge across Kubernetes, Red Hat OpenShift (ROKS/OCP), Terraform, Linux/AIX and networking/security fundamentals. Experienced integrating enterprise workloads on IBM Cloud (including PowerVS) and enabling teams through workshops on Kubernetes, OpenShift, and Code Engine. Comfortable coding in Python and Shell; apply Git/GitHub and DevOps practices to provision, scale, and secure cloud workloads.
 
 ---

@@ -1,27 +1,48 @@
 ## Felipe Akahoshi
-          
+
 **Hi!**
 I like cloud.
 
+I have knowledge across Kubernetes, Red Hat OpenShift (ROKS/OCP), Terraform, Linux/AIX and networking/security fundamentals. Experienced integrating enterprise workloads on IBM Cloud (including PowerVS) and enabling teams through workshops on Kubernetes, OpenShift, and Code Engine. Comfortable coding in Python and Shell; apply Git/GitHub and DevOps practices to provision, scale, and secure cloud workloads.
 
-Certifications:
-          
-- Google Cloud Certified Professional Cloud Architect [[View]](https://www.credly.com/badges/232c85a0-469b-4b7b-86c0-46dcb5164005/public_url)
-- IBM Certified Technical Advocate - Cloud v5 [[View]](https://www.credly.com/badges/8b7615f9-1041-4bf4-8416-9e2270b3074c/public_url)
-- Oracle Cloud Infrastructure Certified Multicloud Architect Professional [[View]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B46962E5F86CB07FF20EF84941291ED4CA675D098B8CEE7940CBF2E5A20723A4)
-- Oracle Cloud Infrastructure Certified Architect Associate [[View]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB0B40744CCAC626AAFD7E645E4CC05D4BCFB92B67EF0BBC86266FFF7E57BA44)
-- Oracle Cloud Infrastructure Certified Foundations Associate [[View]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3ADDC50CBEE4B1403B63F3FCED23451870930EE739208EBF8632BB458BFBFBC)
+---
 
-##
+## Certifications
 
-**Technologies:**
+<a href="https://www.credly.com/badges/232c85a0-469b-4b7b-86c0-46dcb5164005/public_url"><img src="https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" height="100" alt="Google Cloud Professional Cloud Architect"></a>
+<a href="https://www.credly.com/badges/8b7615f9-1041-4bf4-8416-9e2270b3074c/public_url"><img src="https://images.credly.com/size/100x100/images/6667d1ce-d193-439e-ab0f-13ad4bb0e3ed/image.png" width="100" height="100" alt="IBM Certified Technical Advocate - Cloud v5"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B46962E5F86CB07FF20EF84941291ED4CA675D098B8CEE7940CBF2E5A20723A4"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2025MCAOCP.png" width="100" height="100" alt="OCI Multicloud Architect Professional"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB0B40744CCAC626AAFD7E645E4CC05D4BCFB92B67EF0BBC86266FFF7E57BA44"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25CAA.png" width="100" height="100" alt="OCI Architect Associate"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3ADDC50CBEE4B1403B63F3FCED23451870930EE739208EBF8632BB458BFBFBC"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="100" height="100" alt="OCI Foundations Associate"></a>
 
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+---
+
+## Skills
+
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
+![AIX](https://img.shields.io/badge/AIX-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![IBM PowerVS](https://img.shields.io/badge/IBM%20PowerVS-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenShift](https://img.shields.io/badge/openshift-%23ee0000.svg?style=for-the-badge&logo=openshift&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Red Hat OpenShift](https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Red Hat Openshift Virtualization](https://img.shields.io/badge/RH%20OpenShift%20Virtualization-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Security](https://img.shields.io/badge/Security-DD0031?style=for-the-badge&logo=security&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ##
 
 <div align="center">

@@ -5,16 +5,6 @@ I have knowledge across Kubernetes, Red Hat OpenShift (ROKS/OCP), Terraform, Lin
 
 ---
 
-## Certifications
-
-<a href="https://www.credly.com/badges/232c85a0-469b-4b7b-86c0-46dcb5164005/public_url"><img src="https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" height="100" alt="Google Cloud Professional Cloud Architect"></a>
-<a href="https://www.credly.com/badges/8b7615f9-1041-4bf4-8416-9e2270b3074c/public_url"><img src="https://images.credly.com/size/100x100/images/6667d1ce-d193-439e-ab0f-13ad4bb0e3ed/image.png" width="100" height="100" alt="IBM Certified Technical Advocate - Cloud v5"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B46962E5F86CB07FF20EF84941291ED4CA675D098B8CEE7940CBF2E5A20723A4"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2025MCAOCP.png" width="100" height="100" alt="OCI Multicloud Architect Professional"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB0B40744CCAC626AAFD7E645E4CC05D4BCFB92B67EF0BBC86266FFF7E57BA44"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25CAA.png" width="100" height="100" alt="OCI Architect Associate"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3ADDC50CBEE4B1403B63F3FCED23451870930EE739208EBF8632BB458BFBFBC"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="100" height="100" alt="OCI Foundations Associate"></a>
-
----
-
 ## Skills
 
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)

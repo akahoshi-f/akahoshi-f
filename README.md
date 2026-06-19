@@ -33,15 +33,6 @@ I have knowledge across Kubernetes, Red Hat OpenShift (ROKS/OCP), Terraform, Lin
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ##
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akahoshi-f&theme=radical&hide_border=true)](https://github.com/akahoshi-f)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akahoshi-f&theme=radical)](https://github.com/akahoshi-f)
-
-</div>
-
-##
-
 <p align="center">
           to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord
 </p>
